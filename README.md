@@ -1,12 +1,18 @@
+
 # Well-Formed HTML Document Lab
 
-## Objectives
+## Introduction
 
-1. Add an appropriate `doctype` tag at the top of an HTML file.
-2. Enclose the HTML contents of a site inside `html` tags.
-3. Structure an HTML document with `head` and `body` tags.
-4. Add `title` tags to give the page a title that will show up in the browser
-   tab.
+It's time to practice making a well formated HTML document!
+
+## Objectives
+You will be able to:
+* Add an appropriate `doctype` tag at the top of an HTML file.
+* Enclose the HTML contents of a site inside `html` tags.
+* Structure an HTML document with `head` and `body` tags.
+* Add `title` tags to give the page a title that will show up in the browser
+tab.
+ 
 
 ## Instructions
 
@@ -21,7 +27,7 @@ page.
 
 You can run the tests with this lab via `learn`. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error
-messages that you can use to debug your code — read them closely for hints!
+messages that you can use to debug your code — read them closely for hints!
 
 ## Viewing your work in the browser
 
@@ -42,4 +48,9 @@ the changes instantly.
 
 ## Resources
 
-* [W3S — HTML `<!DOCTYPE>` Declaration](https://www.w3schools.com/tags/tag_doctype.asp)
+* [W3S — HTML `<!DOCTYPE>` Declaration](https://www.w3schools.com/tags/tag_doctype.asp)
+
+
+## Summary
+
+Well done! You just practiced writing your own structured HTML document!

@@ -4,4 +4,12 @@ tags:
 languages:
   - language_1
   - language_1
+resources: 0tags: 
+- jupyter 
+- python 
+
+languages: python 
+
+jupyter_notebook: true 
+
 resources: 0
