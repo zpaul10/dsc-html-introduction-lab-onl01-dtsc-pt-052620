@@ -1,5 +1,5 @@
 
-# Well-Formed HTML Document Lab
+# HTML Intro - Lab
 
 ## Introduction
 
