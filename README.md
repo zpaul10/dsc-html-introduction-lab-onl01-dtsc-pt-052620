@@ -28,6 +28,8 @@ content. Add opening and closing `head` and `body` tags within the outer
 `body` section contains the content our users will see and interact with on the
 page.
 
+Then add a `title` within the `head` and make sure that it isn't blank.
+
 You can run the tests with this lab via `learn`. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error
 messages that you can use to debug your code — read them closely for hints!
