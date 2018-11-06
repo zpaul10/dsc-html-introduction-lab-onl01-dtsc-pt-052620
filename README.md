@@ -15,7 +15,12 @@ tab.
 
 ## The In-Browser IDE
 
-We want to make it easy for you to both be able to edit an HTML file and for us to be able to run tests to verify that your code is correct. Rather than asking you to do this locally, we're just going to take advantage of the Learn in-browser IDE. You'll see a button towards the top of this page "Open IDE" (just to the left of the GitHub and Raise Issue icons). When we ask you to edit a file "in your text editor", just click on that link, click on the index.html file name in the left hand column, and then when you run your tests, just type `learn` into the bottom of the three boxes which is a terminal for you to use with the in-browser IDE. Once your tests are passing, type `learn submit` there to tell us that you're done!
+We want to make it easy for you to both be able to edit an HTML file and for us to be able to run tests to verify that your code is correct. Rather than asking you to do this locally, we're just going to take advantage of the Learn in-browser IDE. You'll see a button towards the top of this page "Open IDE" (just to the left of the GitHub and Raise Issue icons). When we ask you to edit a file "in your text editor", just click on that link, click on the index.html file name in the left hand column.
+
+If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in broswer".
+
+When you run your tests, just type `learn` into the bottom of the three boxes which is a terminal for you to use with the in-browser IDE. Once your tests are passing, type `learn submit` there to tell us that you're done!
+
 
 ## Instructions
 
