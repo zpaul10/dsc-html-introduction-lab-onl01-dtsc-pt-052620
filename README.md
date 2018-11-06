@@ -12,11 +12,14 @@ You will be able to:
 * Structure an HTML document with `head` and `body` tags.
 * Add `title` tags to give the page a title that will show up in the browser
 tab.
- 
+
+## The In-Browser IDE
+
+We want to make it easy for you to both be able to edit an HTML file and for us to be able to run tests to verify that your code is correct. Rather than asking you to do this locally, we're just going to take advantage of the Learn in-browser IDE. You'll see a button towards the top of this page "Open IDE" (just to the left of the GitHub and Raise Issue icons). When we ask you to edit a file "in your text editor", just click on that link, click on the index.html file name in the left hand column, and then when you run your tests, just type `learn` into the bottom of the three boxes which is a terminal for you to use with the in-browser IDE. Once your tests are passing, type `learn submit` there to tell us that you're done!
 
 ## Instructions
 
-Open `index.html` in your text editor. Add a `doctype` tag at the top of the
+Open `index.html` in your text editor (the in-browser IDE). Add a `doctype` tag at the top of the
 file indicating that the rest of the file will be HTML code. Then create
 opening and closing `html` tags to enclose the remainder of your page's
 content. Add opening and closing `head` and `body` tags within the outer
