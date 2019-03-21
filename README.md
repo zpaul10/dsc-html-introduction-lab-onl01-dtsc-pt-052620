@@ -3,7 +3,7 @@
 
 ## Introduction
 
-It's time to practice making a well formated HTML document!
+It's time to practice making a well formated HTML document! While you may normally prefer to work locally, you're encouraged to work on this lesson through the Learn platform, as it will be formatted nicely, with screenshots inline to guide you and a built in development environment.
 
 ## Objectives
 You will be able to:
@@ -13,9 +13,17 @@ You will be able to:
 * Add `title` tags to give the page a title that will show up in the browser
 tab.
 
+## The Web Developers Toolset
+
+Like all lessons, you can complete this lesson locally on your hard drive. However, you're certain to notice that there is no jupyter/ipython notebook with the file extension .ipynb in this lesson's repository! While you'll use many of the same tools as you have been previously: the command line, a text editor, and a web browser, this lesson is a little bit different in that you'll be desiging a minimalist web page! 
+
 ## The In-Browser IDE
 
-We want to make it easy for you to both be able to edit an HTML file and for us to be able to run tests to verify that your code is correct. Rather than asking you to do this locally, we're just going to take advantage of the Learn in-browser IDE. You'll see a button towards the top of this page "Open IDE" (just to the left of the GitHub and Raise Issue icons). When we ask you to edit a file "in your text editor", just click on that link, click on the index.html file name in the left hand column.
+If you're viewing this lesson on learn, towards the top of this page you'll see a button that says "Open IDE" (it's just to the left of the GitHub and Raise Issue icons). This will allow you to have a terminal and text editor emulated in your browser! With that, you won't even have to open up another program.
+
+Once you click it, your browser should look something like this:
+
+<img src="images/open_ide1.png width=750>
 
 If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in broswer".
 
