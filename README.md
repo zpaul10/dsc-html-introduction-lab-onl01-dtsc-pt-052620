@@ -23,7 +23,7 @@ If you're viewing this lesson on learn, towards the top of this page you'll see 
 
 Once you click it, your browser should look something like this:
 
-<img src="images/open_ide1.png width=750>
+<img src="images/open_ide1.png width="750">
 
 If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in browser".
 
