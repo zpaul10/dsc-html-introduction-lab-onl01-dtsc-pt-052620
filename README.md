@@ -48,7 +48,8 @@ While working through these assignments, your general workflow should center on
 writing code in the text editor and observing the subsequent impact on the displayed webpage in another tab of your browser.
 
 If you're using a local development environment, you can open the HTML file directly in your browser. If you're coding in the
-Learn IDE, you can simply type `"httpserver"` in the bottom terminal emulator of the Learn IDE.   
+Learn IDE, you can simply type `"httpserver"` in the bottom terminal emulator of the Learn IDE.  
+
 <img src="./images/httpserver.gif" width="750">
 
 For further details, check out this [Help Center article](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide) that explains how to spin up and connect to a simple remote server.
