@@ -15,7 +15,7 @@ tab.
 
 ## The Web Developers Toolset
 
-Like all lessons, you can complete this lesson locally on your hard drive. However, you're certain to notice that there is no jupyter/ipython notebook with the file extension .ipynb in this lesson's repository! While you'll use many of the same tools as you have been previously: the command line, a text editor, and a web browser, this lesson is a little bit different in that you'll be designing a minimalist web page! 
+Like all lessons, you can complete this lesson locally on your hard drive. However, you're certain to notice that there is no jupyter/ipython notebook with the file extension .ipynb in this lesson's repository! While you'll use many of the same tools as you have been previously: the command line, a text editor, and a web browser, this lesson is a little bit different in that you'll be designing a minimalist web page!
 
 ## The In-Browser IDE
 
@@ -23,7 +23,7 @@ If you're viewing this lesson on learn, towards the top of this page you'll see 
 
 Once you click it, your browser should look something like this:
 
-<img src="images/open_ide1.png width=750>
+![](https://raw.githubusercontent.com/learn-co-curriculum/dsc-html-introduction-lab/solution/images/open_ide1.png)
 
 If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in browser".
 
@@ -49,7 +49,8 @@ writing code in the text editor and observing the subsequent impact on the displ
 
 If you're using a local development environment, you can open the HTML file directly in your browser. If you're coding in the
 Learn IDE, you can simply type `"httpserver"` in the bottom terminal emulator of the Learn IDE.   
-<img src="images/httpserver.gif width=750">
+
+![](https://raw.githubusercontent.com/learn-co-curriculum/dsc-html-introduction-lab/solution/images/httpserver.gif)
 
 For further details, check out this [Help Center article](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide) that explains how to spin up and connect to a simple remote server.
 
