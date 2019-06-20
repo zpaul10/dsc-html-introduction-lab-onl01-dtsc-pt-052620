@@ -24,7 +24,7 @@ If you're viewing this lesson on learn, towards the top of this page you'll see 
 Once you click it, your browser should look something like this:
 
 
-![](./images/open_ide1.png)
+![](https://raw.githubusercontent.com/learn-co-curriculum/dsc-html-introduction-lab/master/images/open_ide1.png)
 
 If the button doesn't appear to work for you (it opens up blank), go [here](https://learn.co/account/environment) and set your learning environment to "IDE in browser".
 
@@ -52,7 +52,7 @@ If you're using a local development environment, you can open the HTML file dire
 Learn IDE, you can simply type `"httpserver"` in the bottom terminal emulator of the Learn IDE.  
 
 
-![](./images/httpserver.gif)
+![](https://raw.githubusercontent.com/learn-co-curriculum/dsc-html-introduction-lab/master/images/httpserver.gif)
 
 For further details, check out this [Help Center article](http://help.learn.co/the-learn-ide/common-ide-questions/viewing-html-pages-in-the-learn-ide) that explains how to spin up and connect to a simple remote server.
 
