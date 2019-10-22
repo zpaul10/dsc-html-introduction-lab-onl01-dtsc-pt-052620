@@ -1,5 +1,5 @@
 
-# HTML Intro - Lab
+# HTML Introduction - Lab
 
 ## Introduction
 
@@ -7,11 +7,9 @@ It's time to practice making a well formatted HTML document! While you may norma
 
 ## Objectives
 You will be able to:
-* Add an appropriate `doctype` tag at the top of an HTML file.
-* Enclose the HTML contents of a site inside `HTML` tags.
-* Structure an HTML document with `head` and `body` tags.
-* Add `title` tags to give the page a title that will show up in the browser
-tab.
+* Explain what HTML is and why it's important in the context of web development
+* Compare and contrast HTML tags
+* Create an HTML document with appropriate tags
 
 ## The Web Developers Toolset
 
